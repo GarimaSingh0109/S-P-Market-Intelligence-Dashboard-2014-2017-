@@ -2,7 +2,7 @@
 
 An Excel dashboard analyzing trading activity, volatility, weekly patterns, and returns across 506 S&P 500 companies, built entirely with **Power Query** and **Pivot Tables/Charts**.
 
-<img width="383" height="353" alt="Dashboard" src="https://github.com/user-attachments/assets/d1d481cb-909d-49c5-ab9f-574d06946392" />
+<img width="383" height="353" alt="Dashboard" src="https://github.com/user-attachments/assets/d1d481cb-909d-49c5-ab9f-574d06946392" align="center"/>
 
 *Fig 1: Final dashboard — Trading Activity | Volatility | Weekly Pattern | Investment Return (2014–2017)*
 
